@@ -32,3 +32,12 @@ The core tables used to build the dashboards are:
 | `awareness_barriers_summary` | Aggregated counts for Red Box and app‑related awareness and barriers (Table 2) | `Awareness About Red Box?`, `Count`. |
 | `account_call_survey` | Account‑level CCI NEXT call survey with Red Box questions (Table 3) | `Account Number`, `Account Name`, `Last Login Status`, `Earned Points(New)`, `Redeemed Points(New)`, `Balance`, `User Phone`, `User`, `Survey From`, `Survey Number`, Q1–Q4 responses on awareness, ordering behavior, Red Box points knowledge, redemption knowledge, `Remarks`, `Call Status`, `Total Time`, `Date`.
 
+## Dashboard images
+
+### Transaction_report
+
+![coke_dashboard](coke_dashboard.png)
+
+### customer_dashboard
+
+![coke_dashboard_2](coke_dashboard_2.png)
