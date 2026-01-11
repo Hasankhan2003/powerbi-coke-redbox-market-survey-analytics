@@ -34,10 +34,10 @@ The core tables used to build the dashboards are:
 
 ## Dashboard images
 
-### Transaction_report
+### coke_dashboard
 
 ![coke_dashboard](coke_dashboard.png)
 
-### customer_dashboard
+### coke_dashboard_2
 
 ![coke_dashboard_2](coke_dashboard_2.png)
